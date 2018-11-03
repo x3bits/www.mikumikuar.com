@@ -1,0 +1,8 @@
+---
+layout: default
+img: 3.jpg
+category: Services
+title: 写真模式
+description: |
+---
+MikuMikuAR自带了一些常用的拍照姿势,你可以随时方便地让你喜欢的角色拍pose,拍出喜欢的照片。

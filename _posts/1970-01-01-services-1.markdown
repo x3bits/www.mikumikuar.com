@@ -1,0 +1,8 @@
+---
+layout: default
+img: 1.jpg
+category: Services
+title: 给喜欢的角色拍照
+description: |
+---
+  MikuMikuAR可以载入MMD的模型、动作。和实景融合,拍照。

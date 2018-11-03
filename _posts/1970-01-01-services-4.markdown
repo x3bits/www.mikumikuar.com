@@ -1,0 +1,8 @@
+---
+layout: default
+img: 4.jpg
+category: Services
+title: 自定义背景
+description: |
+---
+你可以用手机的图片做照片的背影,和MMD模型融合在一起,制作美图。

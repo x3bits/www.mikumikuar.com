@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://xr.mikumikuar.com
+title: MikuMikuAR
+email: mikumikuar@126.com
+author: x3bits
+description: > # "Write an awesome description for your new site here. 
+  MikuMikuAR——初音扩展现实相机官方站。
+copyright: 'Copyright &copy; 2018 x3bits. 版权所有.'
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: APP下载
+    url: https://shouji.baidu.com/software/11535788.html
+  - title: MikuMikuXR主页
+    url: http://xr.mikumikuar.com
+  - title: 作者博客
+    url: http://mikumikuar.lofter.com
