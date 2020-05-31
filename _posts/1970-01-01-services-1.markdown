@@ -1,6 +1,6 @@
 ---
 layout: default
-img: https://ws3.sinaimg.cn/large/005BYqpgly1g2614i7nlhj31hc0u0dpd.jpg
+img: 1.jpg
 category: Services
 title: 给喜欢的角色拍照
 description: |

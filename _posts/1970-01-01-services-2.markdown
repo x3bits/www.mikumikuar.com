@@ -1,6 +1,6 @@
 ---
 layout: default
-img: https://ws3.sinaimg.cn/large/005BYqpgly1g2618r1ie5j31hc0u0aef.jpg
+img: 2.jpg
 category: Services
 title: AR模式
 description: |
