@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 1.jpg
+img: img/services/1.jpg
 category: Services
 title: 给喜欢的角色拍照
 description: |

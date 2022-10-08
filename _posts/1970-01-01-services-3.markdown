@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 3.jpg
+img: img/services/3.jpg
 category: Services
 title: 写真模式
 description: |
